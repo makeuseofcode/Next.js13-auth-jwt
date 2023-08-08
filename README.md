@@ -1,3 +1,3 @@
-# Next.js 13 App Directory Supported JWT
+# Next.js 13 auth with JWT
 
-An example of how we can integrate JWT token authentication to any Next.js 13 app which uses app directory feature.
+A guide on how to integrate JWT token authentication to a Next.js 13 application that uses the app directory feature.
